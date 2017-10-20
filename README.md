@@ -13,9 +13,14 @@ The improved model of logistic regression for binary class.
 ## keras_multiClass.py
 The model of logistic regression for multi-class.
 ## label_cathay (1).csv
-The 
+The labels for the binary training..
 ## multiLabel_cathay.csv
+The labels for the multi-class training.
 ## output.csv
+The trained weights for the model. 
 ## output1.csv
+The features extracted from the database.
 ## train_cathay (1).csv
+
 ## weight_cathay.csv
+The trained weights for the model.
