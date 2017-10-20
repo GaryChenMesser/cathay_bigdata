@@ -8,7 +8,7 @@ https://www.ons.gov.uk/census/2011census/2011censusdata/censusmicrodata/microdat
 
 ## keras_binaryClass
 * keras1.py	
-The fisrt model of logistic regression for binary class.
+>The fisrt model of logistic regression for binary class.
 ### keras2.py
 The improved model of logistic regression for binary class.
 ### label_cathay (1).csv
