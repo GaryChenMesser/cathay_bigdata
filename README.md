@@ -5,6 +5,11 @@
 https://www.ons.gov.uk/census/2011census/2011censusdata/censusmicrodata/microdatateachingfile
 
 # File Description
+## handcrafted_logistic
+* logistic.py
+>The handedcrafted logistic regression model.
+* weight.txt
+>The weights after training, which can help distinguish the importance of different features.
 
 ## keras_binaryClass
 * keras1.py	
